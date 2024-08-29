@@ -3,7 +3,7 @@
     "notiGroup": true,
     "iconUnsend": {
         "status": false,
-        "icon": ""
+        "icon": "👎"
     },
     "NOTIFICATION": true,
     "language": "vi",
@@ -27,14 +27,14 @@
     ],
     "eventDisabled": [],
     "BOXNOTI": "7082665011828775",
-    "EMAIL": "",
+    "EMAIL": "hoogiathinh@gmail.com",
     "PASSWORD": "",
     "OTPKEY": "",
     "ACCESSTOKEN": "EAAD6V7os0gcBO6yzQT7wxFunUfEUn8k2nFBCOAcE8l8ViYyY7pqFXZBN0Nf6NI0BryZBDCvvKJlwoaobMJHZBlrhAE9WY1LvSRrZAMhOr5yxEZCUEyAZAG5zt7KbifrIiR6G5XMeHHnzKiH2vZAYOWZCZCZAvC61iw9IZA9bmtprfQSzmx242GQmsTJP6yGkwZDZD",
-    "BOTNAME": "Bot Touniie",
+    "BOTNAME": "Bot by gt",
     "PREFIX": "/",
     "ADMINBOT": [
-        "100042167594620",
+        "100094542938765",
         "",
         "",
         "",
@@ -44,7 +44,7 @@
         ""
     ],
     "NDH": [
-        "100042167594620"
+        "100094542938765"
     ],
     "DATABASE": {
         "sqlite": {
